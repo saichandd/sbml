@@ -1,6 +1,6 @@
 # SMBL [Stony Brook Markup Language]
 
-Its a special programming language similar to sml with additior features for . 
+Its a special programming language similar to sml with additional features on list operators.
 
 ## Dependencies
 
