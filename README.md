@@ -2,7 +2,7 @@
 
 SBML is a programming language similar to sml with additional powerful features on list operators. 
 
-It is implemented in python using Yacc.
+It is implemented in python using PLY.
 
 ## Dependencies
 
