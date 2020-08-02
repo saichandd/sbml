@@ -1,6 +1,8 @@
 # SMBL [Stony Brook Markup Language]
 
-Its a special programming language similar to sml with additional features on list operators.
+SBML is a programming language similar to sml with additional powerful features on list operators. 
+
+It is implemented in python using Yacc.
 
 ## Dependencies
 
